@@ -15,10 +15,6 @@
 </table>
 
 
-      🔭 I’m currently working on:</b> InfravisionAI  
-      🌱 I’m currently learning:</b> React  
-      ⚡ Fun fact:</b> I Love Tech and Tech Loves Me  
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishk-surve-4504b22b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishk.surve.20@gmail.com) 
 
