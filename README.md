@@ -1,18 +1,13 @@
-# 💫 About Me:
-<table>
-  <tr>
-    <td>
-      Hi ✋, I'm <b>Tanishk Surve</b><br><br>
-      I’m a passionate tech enthusiast exploring the world of web development and AI.  
-      I love building projects that challenge me, experimenting with new ideas, and learning something new every day.  
-      My goal is to keep growing, creating, and contributing to the tech community while turning ideas into impactful solutions.  
-      <br><br>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+## 💫 About Me  
+
+Hi ✋, I'm **Tanishk Surve**  
+
+💻 A passionate **Tech Enthusiast** exploring the world of **Web Development** and **AI**.  
+🚀 I enjoy **building projects** that challenge me and experimenting with **new ideas**.  
+📚 Always focused on **learning new skills** every day to grow as a developer.  
+🌐 My goal is to **create impactful solutions** while contributing to the **tech community**.  
+
+✨ *"Code. Learn. Build. Repeat."*
 
 
 ## 🌐 Socials:
